@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sublimetext/README.md",
+			"settings":
+			{
+				"buffer_size": 1057,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sublimetext/recipes/default.rb",
+			"settings":
+			{
+				"buffer_size": 1041,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sublimetext/attributes/default.rb",
+			"settings":
+			{
+				"buffer_size": 1069,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/moka/Documents/GitHub/miyabis-cookbooks/sublimetext/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/TFSPowerTools/README.md",
+		"/C/chef/repo/miyabis_cookbooks/wpilauncher/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/wpilauncher/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/wpilauncher/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/wpilauncher/README.md",
+		"/C/chef/repo/miyabis_cookbooks/wcat/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/wcat/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/wcat/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/wcat/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_webessentials/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_webessentials/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_webessentials/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_webessentials/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_vscommands/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_vscommands/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_vscommands/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_vscommands/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_vscoloroutput/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_vscoloroutput/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_vscoloroutput/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_vscoloroutput/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_ProductivityPowerTools/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ProductivityPowerTools/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ProductivityPowerTools/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ProductivityPowerTools/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_nuget/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_nuget/recipes/2010.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_nuget/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_nuget/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_nuget/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_ModelingPowerToys/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ModelingPowerToys/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ModelingPowerToys/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ModelingPowerToys/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocatemplates/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocatemplates/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocatemplates/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocatemplates/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocasnippets/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocasnippets/libraries/codeplex.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocasnippets/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocasnippets/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocasnippets/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocacontrols/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocacontrols/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_mocacontrols/README.md",
+		"/C/chef/repo/miyabis_cookbooks/vse_ankhsvn/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ankhsvn/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ankhsvn/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/vse_ankhsvn/README.md",
+		"/C/chef/repo/miyabis_cookbooks/TortoiseSVN/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/TortoiseSVN/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/TortoiseSVN/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/TortoiseSVN/README.md",
+		"/C/chef/repo/miyabis_cookbooks/TFSPowerTools/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/TFSPowerTools/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/TFSPowerTools/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/ssdt/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/ssdt/recipes/2010.rb",
+		"/C/chef/repo/miyabis_cookbooks/ssdt/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/ssdt/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/ssdt/README.md",
+		"/C/chef/repo/miyabis_cookbooks/snapcrab/README.md",
+		"/C/chef/repo/miyabis_cookbooks/snapcrab/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/snapcrab/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/snapcrab/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/sap_cr/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/sap_cr/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/sap_cr/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/sap_cr/README.md",
+		"/C/chef/repo/miyabis_cookbooks/msbuild_extpack/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/msbuild_extpack/libraries/codeplex.rb",
+		"/C/chef/repo/miyabis_cookbooks/msbuild_extpack/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/msbuild_extpack/README.md",
+		"/C/chef/repo/miyabis_cookbooks/msbuild_extpack/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/fiddler/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/fiddler/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/fiddler/README.md",
+		"/C/chef/repo/miyabis_cookbooks/explzh/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/explzh/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/explzh/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/clickonce_ecg/metadata.rb",
+		"/C/chef/repo/miyabis_cookbooks/clickonce_ecg/attributes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/clickonce_ecg/recipes/default.rb",
+		"/C/chef/repo/miyabis_cookbooks/clickonce_ecg/README.md",
+		"/C/Users/moka/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Explzh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sublimetext/README.md",
+					"settings":
+					{
+						"buffer_size": 1057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sublimetext/recipes/default.rb",
+					"settings":
+					{
+						"buffer_size": 1041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sublimetext/attributes/default.rb",
+					"settings":
+					{
+						"buffer_size": 1069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								883,
+								883
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
