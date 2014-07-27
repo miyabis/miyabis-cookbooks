@@ -1,6 +1,6 @@
 Microsoft Ajax Minifier Cookbook
 ==============
-[Microsoft Ajax Minifier](http://aspnet.codeplex.com/releases/view/40584)
+[Microsoft Ajax Minifier](http://ajaxmin.codeplex.com)
 
 
 Requirements
@@ -18,7 +18,9 @@ Requirements
 
 Attributes
 ----------
-- `node['ajaxmin']` - install Microsoft Ajax Minifier.
+- `['ajaxmin']['url']`
+- `['ajaxmin']['download_id']`
+- `['ajaxmin']['package_name']`
 
 
 License & Authors

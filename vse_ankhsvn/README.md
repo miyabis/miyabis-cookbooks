@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['vse_ankhsvn']` - install AnkhSVN - Subversion Support / SCC Provider.
 
 
 License & Authors

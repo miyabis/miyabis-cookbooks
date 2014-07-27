@@ -1,6 +1,6 @@
 WCat Cookbook
 ==============
-[WCat](http://www.iis.net/downloads/community/2007/05/wcat-63-(x86)) is a file archiver with a high compression ratio. This cookbook installs the full WCat suite of tools (GUI and CLI).
+[WCat](http://www.iis.net/downloads/community/2007/05/wcat-63-(x86))
 
 
 Requirements
@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['WCat']['home']` - install WCat.
 
 
 License & Authors

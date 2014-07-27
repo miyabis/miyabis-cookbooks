@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['TFSPowerTools']` - install TFSPowerTools.
 
 
 License & Authors

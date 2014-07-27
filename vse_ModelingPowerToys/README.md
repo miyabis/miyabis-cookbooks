@@ -16,7 +16,6 @@ Requirements
 
 Attributes
 ----------
-- `node['vse_ModelingPowerToys']` - install Modeling Power Toys for Visual Studio.
 
 
 License & Authors

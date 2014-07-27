@@ -1,6 +1,6 @@
 TortoiseSVN Cookbook
 ==============
-[TortoiseSVN](http://www.telerik.com/download/TortoiseSVN) is a file archiver with a high compression ratio. This cookbook installs the full TortoiseSVN suite of tools (GUI and CLI).
+[TortoiseSVN](http://www.telerik.com/download/TortoiseSVN)
 
 
 Requirements
@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['TortoiseSVN']` - install TortoiseSVN.
 
 
 License & Authors

@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['VSCommands']` - install VSCommands.
 
 
 License & Authors

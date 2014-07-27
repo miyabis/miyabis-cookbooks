@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['msbuild_extpack']` - install MSBuild Extension Pack.
 
 
 License & Authors

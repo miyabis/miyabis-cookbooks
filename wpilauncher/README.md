@@ -1,6 +1,6 @@
 wpilauncher Cookbook
 ==============
-[wpilauncher](http://www.microsoft.com/web/downloads/platform.aspx) is a file archiver with a high compression ratio. This cookbook installs the full wpilauncher suite of tools (GUI and CLI).
+[wpilauncher](http://www.microsoft.com/web/downloads/platform.aspx)
 
 
 Requirements
@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['wpilauncher']` - install wpilauncher.
 
 
 License & Authors

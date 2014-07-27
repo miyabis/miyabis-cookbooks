@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['ssdt']` - install SQL Server Data Tools(SSDT).
 
 
 License & Authors

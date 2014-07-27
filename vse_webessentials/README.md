@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['webessentials']` - install Web Essentials.
 
 
 License & Authors

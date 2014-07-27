@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['nuget']` - install NuGet.
 
 
 License & Authors

@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['MocaControls']` - install Moca.NET Windows Forms Controls.
 
 
 License & Authors

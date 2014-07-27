@@ -1,6 +1,6 @@
 Explzh Cookbook
 ==============
-[Explzh](http://www.ponsoftware.com/archiver/download.htm) is a file archiver with a high compression ratio. This cookbook installs the full Explzh suite of tools (GUI and CLI).
+[Explzh](http://www.ponsoftware.com/archiver/download.htm)
 
 
 Requirements
@@ -18,7 +18,8 @@ Requirements
 
 Attributes
 ----------
-- `node['Explzh']` - install Explzh
+- `default['Explzh']['url']`
+- `default['Explzh']['package_name']`
 
 
 License & Authors

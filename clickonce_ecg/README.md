@@ -18,7 +18,7 @@ Requirements
 
 Attributes
 ----------
-- `node['clickonce_ecg']` - install Entity Code Generator.
+- `['clickonce_ecg']['url']`
 
 License & Authors
 -----------------

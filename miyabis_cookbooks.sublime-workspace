@@ -24,6 +24,14 @@
 			}
 		},
 		{
+			"file": "/C/Bin/TracLight/projects/trac/SampleProject/htdocs/style.css",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "sublimetext/attributes/default.rb",
 			"settings":
 			{
@@ -186,7 +194,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -243,6 +251,33 @@
 				},
 				{
 					"buffer": 2,
+					"file": "/C/Bin/TracLight/projects/trac/SampleProject/htdocs/style.css",
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "sublimetext/attributes/default.rb",
 					"settings":
 					{

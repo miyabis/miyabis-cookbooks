@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['ProductivityPowerTools']` - install Productivity Power Tools.
 
 
 License & Authors

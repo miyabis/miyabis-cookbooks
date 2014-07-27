@@ -1,6 +1,6 @@
 Sublime Text Cookbook
 ==============
-[Sublime Text](http://www.sublimetext.com/) is a file archiver with a high compression ratio. This cookbook installs the full Sublime Text suite of tools (GUI and CLI).
+[Sublime Text](http://www.sublimetext.com/)
 
 
 Requirements
@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['SublimeText']` - install Sublime Text
 
 
 License & Authors

@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['vscoloroutput']` - install VSColorOutput.
 
 
 License & Authors

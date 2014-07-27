@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['MocaTemplates']` - install Moca.NET Templates.
 
 
 License & Authors

@@ -16,7 +16,6 @@ Requirements
 
 Attributes
 ----------
-- `node['snapcrab']` - install SnapCrab for Windows.
 
 
 License & Authors

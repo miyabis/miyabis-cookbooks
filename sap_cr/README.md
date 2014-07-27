@@ -20,7 +20,6 @@ Requirements
 
 Attributes
 ----------
-- `node['sapcr']` - install SAP Crystal Reports.
 
 
 License & Authors

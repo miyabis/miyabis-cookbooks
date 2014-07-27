@@ -1,6 +1,6 @@
 Fiddler Cookbook
 ==============
-[Fiddler](http://www.telerik.com/download/fiddler) is a file archiver with a high compression ratio. This cookbook installs the full Fiddler suite of tools (GUI and CLI).
+[Fiddler](http://www.telerik.com/download/fiddler)
 
 
 Requirements
@@ -18,7 +18,8 @@ Requirements
 
 Attributes
 ----------
-- `node['Fiddler']` - install Fiddler.
+- `default['Fiddler']['url']`
+- `default['Fiddler']['package_name']`
 
 
 License & Authors

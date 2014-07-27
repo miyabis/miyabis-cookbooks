@@ -18,7 +18,6 @@ Requirements
 
 Attributes
 ----------
-- `node['MocaSnippets']` - install Moca.NET Snippets.
 
 
 License & Authors
