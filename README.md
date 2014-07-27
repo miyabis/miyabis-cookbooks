@@ -3,6 +3,8 @@ miyabis-cookbooks
 
 chef cookbooks
 
+It is a cookbook that create an environment for the. net developed in windows.
+
 Requirements
 ------------
 ### Platform
