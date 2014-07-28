@@ -29,7 +29,7 @@ end
 
 windows_package 'TortoiseSVN' do
   source Chef::Config[:file_cache_path] + '\\' + node['TortoiseSVN']['package_name']
-  options "/passive /norestar"
+  options "/passive /norestart"
   timeout 180000
   notifies :install, "windows_package[TortoiseSVNLang]", :immediately
   action :nothing

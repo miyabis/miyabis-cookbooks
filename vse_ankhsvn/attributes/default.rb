@@ -19,5 +19,4 @@
 #
 
 default['vse_ankhsvn']['url']          = "http://ankhsvn.net/downloads/2.5/?dl=true"
-default['vse_ankhsvn']['checksum']     = "4b7d183a7f2fa4fa63649efa5a433377"
 default['vse_ankhsvn']['package_name'] = "AnkhSvn.msi"

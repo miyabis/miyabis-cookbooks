@@ -32,6 +32,6 @@ if kernel['machine'] =~ /x86_64/
   default['msbuild_extpack']['package_name40'] = "4.0.9.0\\x64\\MSBuild Extension Pack 4 (x64).msi"
   default['msbuild_extpack']['package_name35'] = "3.5.14.0\\x64\\MSBuild Extension Pack 3.5 (x64).msi"
 else
-  default['msbuild_extpack']['package_name40'] = "4.0.9.0\\x86\\MSBuild Extension Pack 4.msi"
-  default['msbuild_extpack']['package_name35'] = "3.5.14.0\\x86\\MSBuild Extension Pack 3.5.msi"
+  default['msbuild_extpack']['package_name40'] = "4.0.9.0\\x86\\MSBuild Extension Pack 4 (x86).msi"
+  default['msbuild_extpack']['package_name35'] = "3.5.14.0\\x86\\MSBuild Extension Pack 3.5 (x86).msi"
 end

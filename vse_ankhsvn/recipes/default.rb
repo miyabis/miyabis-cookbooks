@@ -20,7 +20,6 @@
 
 remote_file "#{Chef::Config[:file_cache_path]}/#{node['vse_ankhsvn']['package_name']}" do
   source node['vse_ankhsvn']['url']
-  checksum node['vse_ankhsvn']['checksum']
   notifies :install, "windows_package[install_ankhsvn]", :immediately
 end
 

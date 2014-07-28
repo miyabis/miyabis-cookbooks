@@ -18,20 +18,21 @@
 # limitations under the License.
 #
 
-remote_file "#{Chef::Config[:file_cache_path]}/#{node['WCat']['package_name']}" do
-  source node['WCat']['url']
-  notifies :install, "windows_package[WCat]", :immediately
-end
+# remote_file "#{Chef::Config[:file_cache_path]}\\#{node['WCat']['package_name']}" do
+#   source node['WCat']['url']
+#   notifies :install, "windows_package[WCat]", :immediately
+# end
 
-windows_package 'WCat' do
-  source Chef::Config[:file_cache_path] + '\\' + node['WCat']['package_name']
-  installer_type :custom
-  timeout 180000
-  action :nothing
-end
+# windows_package 'WCat' do
+#   source Chef::Config[:file_cache_path] + '\\' + node['WCat']['package_name']
+#   options '/passive'
+#   timeout 180000
+#   action :nothing
+# end
 
-#windows_package node['WCat']['package_name'] do
-#  source node['WCat']['url']
-#  timeout 180000
-#  action :install
-#end
+windows_batch "setup_wcat" do
+  code <<-EOH
+  "%PROGRAMFILES%\\Internet Explorer\\iexplore.exe" "#{node['WCat']['url']}"
+  EOH
+  returns 1
+end

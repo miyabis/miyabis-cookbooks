@@ -11,8 +11,12 @@ class CodePlex
   def self.download_url(project_name, download_id, proxy_url, proxy_port)
     download_url = nil
 
+	if proxy_url == "" 
+	  http = Net::HTTP.new("#{project_name}.codeplex.com")
+	else
     proxy = Net::HTTP::Proxy("#{proxy_url}", proxy_port)
     http = proxy.new("#{project_name}.codeplex.com")
+	end
 
     # GET /downloads/get/:ID for cookie and token
     resp = http.get("/downloads/get/#{download_id}")

@@ -36,3 +36,4 @@ Recipe
 - "recipe[vse_webessentials]"
 - "recipe[wcat]"
 - "recipe[wpilauncher]"
+- "recipe[github]"

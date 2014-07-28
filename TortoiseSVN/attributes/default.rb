@@ -20,12 +20,12 @@
 
 if kernel['machine'] =~ /x86_64/
 	default['TortoiseSVN']['url']                  = "http://downloads.sourceforge.net/project/tortoisesvn/1.7.14/Application/TortoiseSVN-1.7.14.24257-x64-svn-1.7.16.msi"
-	default['TortoiseSVN']['package_name']         = "TortoiseSVN.exe"
+	default['TortoiseSVN']['package_name']         = "TortoiseSVN.msi"
 	default['TortoiseSVN']['Lang']['url']          = "http://downloads.sourceforge.net/project/tortoisesvn/1.7.14/Language%20Packs/LanguagePack_1.7.14.24257-x64-ja.msi"
-	default['TortoiseSVN']['Lang']['package_name'] = "TortoiseSVNLang.exe"
+	default['TortoiseSVN']['Lang']['package_name'] = "TortoiseSVNLang.msi"
 else
 	default['TortoiseSVN']['url']                  = "http://downloads.sourceforge.net/project/tortoisesvn/1.7.14/Application/TortoiseSVN-1.7.14.24257-win32-svn-1.7.16.msi"
-	default['TortoiseSVN']['package_name']         = "TortoiseSVN.exe"
+	default['TortoiseSVN']['package_name']         = "TortoiseSVN.msi"
 	default['TortoiseSVN']['Lang']['url']          = "http://downloads.sourceforge.net/project/tortoisesvn/1.7.14/Language%20Packs/LanguagePack_1.7.14.24257-win32-ja.msi"
-	default['TortoiseSVN']['Lang']['package_name'] = "TortoiseSVNLang.exe"
+	default['TortoiseSVN']['Lang']['package_name'] = "TortoiseSVNLang.msi"
 end

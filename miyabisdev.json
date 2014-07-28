@@ -24,6 +24,7 @@
 		"recipe[vse_vscommands]",
 		"recipe[vse_webessentials]",
 		"recipe[wcat]",
-		"recipe[wpilauncher]"
+		"recipe[wpilauncher]",
+		"recipe[github]"
 	]
 }

@@ -1,7 +1,7 @@
 #
 # Author:: MiYABiS
-# Cookbook Name:: Moca.NET Snippets
-# Recipe:: default
+# Cookbook Name:: github
+# Attribute:: default
 #
 # Copyright:: Copyright (c) 2013 MiYABiS
 #
@@ -18,17 +18,5 @@
 # limitations under the License.
 #
 
-download_url = CodePlex.download_url('moca', node['MocaSnippets']['download_id'],'','')
-file_name = node['MocaSnippets']['package_name']
-
-remote_file "#{Chef::Config[:file_cache_path]}/#{file_name}" do
-  source download_url
-  notifies :install, "windows_package[MocaSnippets]", :immediately
-end
-
-windows_package 'MocaSnippets' do
-  source Chef::Config[:file_cache_path] + '\\' + node['MocaSnippets']['package_name']
-  installer_type :custom
-  timeout 180000
-  action :nothing
-end
+default['github']['url']          = "http://github-windows.s3.amazonaws.com/GitHubSetup.exe"
+default['github']['package_name'] = "GitHubSetup.exe"
