@@ -1,6 +1,6 @@
 SQL Server Data Tools(SSDT) Cookbook
 ==============
-[SQL Server Data Tools(SSDT)](http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c) is a Visual Studio Extension
+[SQL Server Data Tools(SSDT)](http://msdn.microsoft.com/en-us/jj650015) is a Visual Studio Extension
 
 
 Requirements

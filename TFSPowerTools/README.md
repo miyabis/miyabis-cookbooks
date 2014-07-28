@@ -1,6 +1,6 @@
 TFSPowerTools Cookbook
 ==============
-[TFSPowerTools](http://visualstudiogallery.msdn.microsoft.com/1e6953a7-a0cf-4be4-9fd8-423e2cb6bb05) is a Visual Studio Extension
+[TFSPowerTools](http://visualstudiogallery.msdn.microsoft.com/b1ef7eb2-e084-4cb8-9bc7-06c3bad9148f) is a Visual Studio Extension
 
 
 Requirements
