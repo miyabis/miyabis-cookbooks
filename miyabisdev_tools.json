@@ -1,0 +1,17 @@
+{
+	"name": "MiYABiS Dev",
+	"description": "MiYABiS Development for .NET",
+	"run_list": [
+		"recipe[ajaxmin]",
+		"recipe[clickonce_ecg]",
+		"recipe[fiddler]",
+		"recipe[msbuild_extpack]",
+		"recipe[snapcrab]",
+		"recipe[sublimetext]",
+		"recipe[TFSPowerTools]",
+		"recipe[TortoiseSVN]",
+		"recipe[wcat]",
+		"recipe[wpilauncher]",
+		"recipe[github]"
+	]
+}

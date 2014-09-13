@@ -1,0 +1,17 @@
+{
+	"name": "MiYABiS Dev",
+	"description": "MiYABiS Development for .NET",
+	"run_list": [
+		"recipe[sap_cr]",
+		"recipe[vse_ankhsvn]",
+		"recipe[vse_mocacontrols]",
+		"recipe[vse_mocasnippets]",
+		"recipe[vse_mocatemplates]",
+		"recipe[vse_ModelingPowerToys]",
+		"recipe[vse_nuget]",
+		"recipe[vse_ProductivityPowerTools]",
+		"recipe[vse_vscoloroutput]",
+		"recipe[vse_vscommands]",
+		"recipe[vse_webessentials]"
+	]
+}
