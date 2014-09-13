@@ -37,7 +37,8 @@ end
 
 windows_package 'TortoiseSVNLang' do
   source Chef::Config[:file_cache_path] + '\\' + node['TortoiseSVN']['Lang']['package_name']
-  options "/passive /forcerestart"
+#  options "/passive /forcerestart"
+  options "/passive"
   timeout 180000
   action :nothing
 end
